@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color:darkorange;
+}
+
+h1 {
+    text-align: center;
+    color: deepskyblue;
+    font-family: sans-serif;
+    font-weight: inherit;
+}
+
+#apps {
+    width: inherit;
+    height: inherit;
+    color: cyan;
+}
+
+#games {
+    width: inherit;
+    height: inherit;
+    color: darkcyan;
+}
+
+#chatbot {
+    width: inherit;
+    height: inherit;
+    color: cornflowerblue;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+.line {
+    height: 10px;
+    width: 140px;
+    margin: 6px auto;
+    background-color:aqua;
+}
